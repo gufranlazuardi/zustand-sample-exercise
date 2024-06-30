@@ -39,7 +39,7 @@ const Home = () => {
           </button>
           <button
             onClick={deleteUser}
-            className="w-fit px-5 py-1.5 rounded-md bg-red-700 hover:bg-green-900 transition-all duration-200"
+            className="w-fit px-5 py-1.5 rounded-md bg-red-700 hover:bg-red-900 transition-all duration-200"
           >
             Delete
           </button>
